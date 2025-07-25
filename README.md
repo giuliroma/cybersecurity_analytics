@@ -8,7 +8,7 @@ This project explores how hackers attack companies and what vulnerabilities they
 
 - Filter attacks by industry.
 - View total number of attacks and financial losses.
-- Analyze trends in types of attacks and vulnerabilities over time.
+- Analyze trends in types of attacks and vulnerabilities.
 
 ## 🧰 Tools & Technologies
 
@@ -26,4 +26,7 @@ This project explores how hackers attack companies and what vulnerabilities they
 - KPIs: number of attacks, financial loss.
 - Breakdown of vulnerabilities and attack methods.
 
-![Dashboard Screenshot](img/dashboard_preview.png) <!-- asegurate de que este path exista -->
+![Dashboard Screenshot](img/total_attacks.jpg)
+
+## NOTE
+The project is not done yet. I may change or add things in the future.
