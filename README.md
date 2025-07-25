@@ -4,7 +4,7 @@ An interactive Power BI dashboard analyzing global cybersecurity attacks across 
 
 ## 🔍 Project Overview
 
-This project explores how hackers attack companies and what vulnerabilities they exploit. Using a dataset from Kaggle, I've built a Power BI dashboard that allows users to:
+This project explores how hackers target companies and what vulnerabilities they exploit. Using a dataset from Kaggle, I've built a Power BI dashboard that allows users to:
 
 - Filter attacks by industry.
 - View total number of attacks and financial losses.
@@ -28,4 +28,4 @@ This project explores how hackers attack companies and what vulnerabilities they
 ![Dashboard Screenshot](img/total_attacks.jpg)
 
 ## NOTE
-The project is not done yet. I may change or add things in the future.
+The project is still in progress. I may change or add things in the future.
