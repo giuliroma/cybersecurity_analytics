@@ -13,7 +13,6 @@ This project explores how hackers attack companies and what vulnerabilities they
 ## 🧰 Tools & Technologies
 
 - Power BI
-- Data cleaning in Power Query
 
 ## 🗂 Dataset
 
